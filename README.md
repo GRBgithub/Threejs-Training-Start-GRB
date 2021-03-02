@@ -1,1 +1,1 @@
-# Threejs-Starter-GRB
+# Threejs-Training-Start-GRB
